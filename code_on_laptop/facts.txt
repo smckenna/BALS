@@ -1,0 +1,3 @@
+<br><b>Win rate for Stripes: 47.5%</b><br>
+<b>Win rate for Break:   56.5%</b><br>
+<b>Average game duration: 14.82 minutes</b><br>
